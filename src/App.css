@@ -5,7 +5,18 @@
   list-style: none;
   font-family: 'Poppins',sans-serif;
 }
+.overlay {
+  position: fixed;
+  top: 70px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(86, 84, 84, 0.5); /* Black-blue color with transparency */
+  z-index: 999;
+}
+
 .navbar-container {
+ 
   width: 100%;
   margin: 0 auto;
   padding: 0 80px;
@@ -16,6 +27,8 @@
   background-color: #ff5c11;
   position: relative;
   vertical-align: middle;
+  position: sticky;
+  top:0;
 }
 
 .logo {
@@ -43,7 +56,68 @@
   display: none;
 }
 
+/*? Match post are here  */
+.date{
+  margin-bottom: 10px;
+}
+.match-post{
+  width: 92%;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px 5px rgb(208, 207, 207);
+  background-color: rgb(224, 224, 220);
 
+}
+.complete-match{
+  display: flex;
+  background-color: rgb(224, 224, 220);
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+.team{
+   text-align: center;
+}
+.team h2{
+  color:#fff;
+  display: block;
+  background-color: orange;
+  padding: 10px;
+}
+.team p{
+  margin-top: 13px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.goalscorers{
+  font-size: 20px;
+  display: block;
+  /* margin-top: 20px; */
+  margin: 20px auto;
+  background-color: orange;
+  width: 160px;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+.final-score{
+  background-color: #ff5c11;
+  font-weight: bolder;
+  font-size: 30px;
+  width: 80px;
+  padding: 5px 0;
+
+}
+.scorers1  h4{
+  margin-top: 10px;
+}
+.team-scorers{
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+}
 
 @media (max-width: 600px) {
   .logo{
@@ -78,18 +152,20 @@
     height: calc(100vh - 60px);
     transition: all 0.3s ease-in;
     overflow: hidden;
+    z-index: 1000;
   }
   .nav-element:first-child{
     margin-top: 30px;
   }
   .nav-element{
     display: block;
-    margin-top: 34px;
     padding: 0;
     margin-left: 0px;
     padding-left: 10px;
     letter-spacing: 0px;
     padding-bottom: 10px;
+    height: 70px;
+    line-height: 70px;
     border-bottom: 1px solid white;
   }
 
