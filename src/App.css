@@ -48,6 +48,7 @@
 @media (max-width: 600px) {
   .logo{
     font-size: 25px ;
+    color: blue;
   }
   .navbar-container{
     padding: 0 10px;
