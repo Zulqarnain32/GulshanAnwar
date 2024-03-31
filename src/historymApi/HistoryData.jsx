@@ -1,4 +1,4 @@
-const aprilWeek1 = [
+const HistoryData = [
     {
         timeStamp:{
           day:"Sunday",
@@ -27,4 +27,4 @@ const aprilWeek1 = [
         },
     }
 ]
-export default aprilWeek1
+export default HistoryData

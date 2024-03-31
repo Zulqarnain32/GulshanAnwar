@@ -5,6 +5,10 @@
   list-style: none;
   font-family: 'Poppins',sans-serif;
 }
+:root {
+  --main-color: #ff5c11;
+  --bg-color: rgb(224, 224, 220); 
+}
 .overlay {
   position: fixed;
   top: 70px;
@@ -56,6 +60,52 @@
   display: none;
 }
 
+/*? Scorers component css is here  */
+.scorers-component{
+  display: flex;
+  flex-wrap: wrap;
+  width: 92%;
+  margin: 0 auto;
+
+  
+
+}
+.single-player-score{
+  padding: 20px;
+  width: 100%;
+  height: 100px;
+  margin: 10px 0;
+  background-color: rgb(224, 224, 220);
+  /* box-shadow: 0 0 10px 5px rgb(214, 214, 214); */
+
+}
+.goals-count ,.matches-count{
+  display: flex;
+  justify-content: space-between;
+
+}
+.color{
+  color: var(--main-color);
+
+}
+.matches-count{
+  margin-top: 10px;
+}
+
+.search-player{
+  width: 92%;
+  margin: 30px auto 10px auto;
+  display: block;
+  padding: 10px 20px;
+  font-size: 22px;
+}
+
+.no-found{
+  text-align: center;
+  display: block;
+  color: red;
+  width: 100%;
+}
 /*? Match post are here  */
 .date{
   margin-bottom: 10px;
