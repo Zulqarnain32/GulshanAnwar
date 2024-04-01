@@ -25,6 +25,7 @@ const HistoryData = [
             goalscorers:["Atique ⚽️",'Hassan ⚽️','Amanullah (p) ⚽️']
 
         },
+        finalScore:"4-3"
     }
 ]
 export default HistoryData

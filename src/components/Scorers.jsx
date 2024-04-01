@@ -35,8 +35,12 @@ const Scorers = () => {
                             <h2 className="color">{player.Goals} ⚽️</h2>
                         </div>
                         <div className="matches-count">
-                            <h2>Matches</h2>
+                            <h2 className="light">Matches</h2>
                             <h2 className="color">{player.matchPlayed} 🎯</h2>
+                        </div>
+                        <div className="assist-count">
+                            <h2 className="light">Assists</h2>
+                            <h2 className="color">{player.Assist} 🎯</h2>
                         </div>
                     </div>
                 ))}

@@ -25,6 +25,7 @@ const aprilWeek1 = [
             goalscorers:["Atique ⚽️",'Hassan ⚽️','Amanullah (p) ⚽️']
 
         },
+        finalScore:"4-3"
     }
 ]
 export default aprilWeek1

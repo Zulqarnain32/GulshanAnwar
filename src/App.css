@@ -73,13 +73,12 @@
 .single-player-score{
   padding: 20px;
   width: 100%;
-  height: 100px;
+  padding: 20px ;
   margin: 10px 0;
   background-color: rgb(224, 224, 220);
-  /* box-shadow: 0 0 10px 5px rgb(214, 214, 214); */
 
 }
-.goals-count ,.matches-count{
+.goals-count ,.matches-count, .assist-count{
   display: flex;
   justify-content: space-between;
 
@@ -89,7 +88,11 @@
 
 }
 .matches-count{
-  margin-top: 10px;
+  margin: 10px 0;
+}
+.light{
+  color: #474444;
+  font-weight: normal;
 }
 
 .search-player{

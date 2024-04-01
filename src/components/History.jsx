@@ -32,7 +32,7 @@ const History = () => {
                      <p>{players.team2.player7}</p>
                  </div>
               </div>
-              <div className='final-score goalscorers'>4-3 </div>
+              <div className='final-score goalscorers'>{players.finalScore} </div>
               <div className='goalscorers'>Goal Scorers</div>
               <div className="team-scorers">
                  <div className="scorers1 ">
