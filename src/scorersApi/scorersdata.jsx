@@ -36,10 +36,10 @@ const scorerData = [
     },
     {
         id:6,
-        player:"Amanullah",
-        Goals:1,
+        player:"Zeeshan",
+        Goals:0,
         matchPlayed:1,
-        Assist:0,
+        Assist:1,
     },
     {
         id:7,
@@ -80,6 +80,13 @@ const scorerData = [
         id:12,
         player:"Asad Lali",
         Goals:0,
+        matchPlayed:1,
+        Assist:0,
+    },
+    {
+        id:13,
+        player:"Amanullah",
+        Goals:1,
         matchPlayed:1,
         Assist:0,
     },
