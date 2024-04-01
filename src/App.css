@@ -33,6 +33,7 @@
   vertical-align: middle;
   position: sticky;
   top:0;
+  z-index: 10;
 }
 
 .logo {
@@ -109,6 +110,39 @@
   color: red;
   width: 100%;
 }
+
+
+/*? Players page  */
+.player-container{
+  width: 100%;
+  overflow:hidden;
+}
+.single-player{
+  /* background-color: red; */
+  height: 750px;
+  /* margin-bottom: 50px; */
+  border-bottom: 2px solid black;
+}
+.player-img{
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+.single-player h1{
+  position: relative;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 10px;
+}
+.single-player h1 span{
+  position: absolute;
+  right: 20px;
+  font-weight: normal;
+}
+
+
 /*? Match post are here  */
 .date{
   margin-bottom: 10px;

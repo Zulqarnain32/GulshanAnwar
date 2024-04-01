@@ -4,6 +4,7 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import Home from './components/Home'
 import Scorers from './components/Scorers'
 import History from './components/History'
+import Players from './components/Players'
 import("./App.css")
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
         <Route path='/' element = {<Home/>}/>  
         <Route path='/scorers' element = {<Scorers/>}/>  
         <Route path='/history' element = {<History/>}/>  
+        <Route path='/players' element = {<Players/>}/>  
       </Routes> 
     </BrowserRouter>
     </>
