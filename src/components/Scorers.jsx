@@ -29,7 +29,7 @@ const Scorers = () => {
             </div>
             <div className="scorers-component">
                 {filteredPlayers.map((player, i) => (
-                    <div key={i} className="single-player-score">
+                    <div key={i} className="single-player-score" style={{background:player.bg}}>
                         <div className="goals-count">
                             <h2>{player.player}</h2>
                             <h2 className="color">{player.Goals} ⚽️</h2>

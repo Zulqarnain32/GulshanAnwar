@@ -5,6 +5,7 @@ const scorerData = [
         Goals:2,
         matchPlayed:1,
         Assist:0,
+        bg:"aquamarine"
     },
     {
         id:2,
@@ -12,6 +13,8 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:1,
+        // bg:"#70e774",
+        bg:"#f56d6d",
     },
     {
         id:3,
@@ -19,6 +22,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:0,
+        bg:"#f6e562"
     },
     {
         id:4,
@@ -26,6 +30,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:1,
+        bg:"#87e1ff"
     },
     {
         id:5,
@@ -33,6 +38,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:0,
+        bg:"#c7b9ee"
     },
     {
         id:6,
@@ -40,6 +46,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:1,
+        bg:"#f1b18c"
     },
     {
         id:7,
@@ -47,6 +54,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:0,
+        bg:"#f5abe5"
     },
     {
         id:8,
@@ -54,6 +62,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:0,
+        bg:"#afc5ce"
     },
     {
         id:9,
@@ -61,6 +70,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:1,
+        bg:"#cbc6c8"
     },
     {
         id:10,
@@ -68,6 +78,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:0,
+        bg:"#61dd87"
     },
     {
         id:11,
@@ -75,6 +86,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:0,
+        bg:"#87d0f2"
     },
     {
         id:12,
@@ -82,6 +94,7 @@ const scorerData = [
         Goals:0,
         matchPlayed:1,
         Assist:0,
+        bg:"#bb9df6"
     },
     {
         id:13,
@@ -89,6 +102,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:0,
+        bg:"#fc4646"
     },
 ]
 export default scorerData

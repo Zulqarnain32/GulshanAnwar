@@ -8,7 +8,7 @@ const History = () => {
           {
             HistoryData.map((players,i) => (
               <div className='black-layer' key={i}>
-              <div className='match-post'>
+              <div className={`match-post ${i % 2 === 0 ? "red" : "blue"}`}>
                 <p className='date'>Date & Day :  {players.timeStamp.day} { players.timeStamp.date}</p>
               <div className='complete-match'>
                  <div className='team team1'>
