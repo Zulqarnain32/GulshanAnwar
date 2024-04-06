@@ -150,6 +150,7 @@
 
 
 /*? Match post are here  */
+
 .date{
   margin-bottom: 10px;
 }
@@ -160,7 +161,15 @@
   border-radius: 4px;
   box-shadow: 0 0 10px 5px rgb(208, 207, 207);
   background-color: rgb(224, 224, 220);
+  position: relative;
 
+}
+.match-num{
+  color: var(--main-color);
+  font-size: 30px;
+  position: absolute;
+  right: 10px;
+  top: 2px;
 }
 .red{
   background-color: rgb(49, 49, 49);

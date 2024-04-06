@@ -13,8 +13,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:1,
-        // bg:"#70e774",
-        bg:"#f56d6d",
+        bg:"#87e1ff"
     },
     {
         id:3,
@@ -30,7 +29,8 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:1,
-        bg:"#87e1ff"
+        bg:"#70e774",
+
     },
     {
         id:5,
@@ -102,7 +102,7 @@ const scorerData = [
         Goals:1,
         matchPlayed:1,
         Assist:0,
-        bg:"#fc4646"
+        bg:"#d79999"
     },
 ]
 export default scorerData

@@ -5,6 +5,7 @@ import Home from './components/Home'
 import Scorers from './components/Scorers'
 import History from './components/History'
 import Players from './components/Players'
+import Sunday from './components/Sunday'
 import("./App.css")
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
         <Route path='/scorers' element = {<Scorers/>}/>  
         <Route path='/history' element = {<History/>}/>  
         <Route path='/players' element = {<Players/>}/>  
+        <Route path='/sunday' element = {<Sunday/>}/>  
       </Routes> 
     </BrowserRouter>
     </>

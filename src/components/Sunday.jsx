@@ -1,6 +1,6 @@
 import React from 'react'
 import HistoryData from '../historymApi/HistoryData'
-const History = () => {
+const Sunday = () => {
 
   return (
     <>
@@ -64,4 +64,4 @@ const History = () => {
   )
 }
 
-export default History
+export default Sunday
