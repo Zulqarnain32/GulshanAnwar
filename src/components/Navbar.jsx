@@ -39,7 +39,7 @@ const Navbar = () => {
         <Link to="/regular" className="nav-element" onClick={closeNav}>Regular</Link>
         <Link to="/sunday" className="nav-element" onClick={closeNav}>Sunday</Link>
         <Link to="/players" className="nav-element" onClick={closeNav}>Players</Link>
-        <Link to="/blog" className="nav-element" onClick={closeNav}>Match</Link>
+        {/* <Link to="/blog" className="nav-element" onClick={closeNav}>Match</Link> */}
         <Link to="/history" className="nav-element" onClick={closeNav}>History</Link>
         <Link to="/scorers" className="nav-element" onClick={closeNav}>Scorers</Link>
       </div>
