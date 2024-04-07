@@ -20,6 +20,7 @@ const History = () => {
                     <p>{players.team1.player5}</p>
                     <p>{players.team1.player6}</p>
                     <p>{players.team1.player7}</p>
+                    <p>{players.team1.player8}</p>
                   </div>
                   <div className='team team2'>
                     <h2>{players.team2.captain}</h2>

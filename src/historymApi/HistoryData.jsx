@@ -34,28 +34,28 @@ const HistoryData = [
         },
         team1:{
             captain:"Tariq Bhai",
-            player1:"...",
-            player2:"...",
-            player3:"...",
-            player4:"...",
-            player5:"...",
-            player7:"...",
-            // goalscorers:["Mohsin ⚽️⚽️",'Naeem ⚽️','Zulqarnain ⚽️']
-            goalscorers:[]
+            player1:"Zeeshan",
+            player2:"Asad Lali",
+            player3:"Zulqarnain",
+            player4:"Mani",
+            player5:"Imtiyaz",
+            player7:"Arham",
+            player8:"Muzaffar",
+            goalscorers:["Muzaffar  ⚽️⚽️⚽️",'Tariq Bhai ⚽️','Arham ⚽️']
         },
         team2:{
-            captain:"Amanullah",
-            player1:"...",
-            player2:"...",
-            player3:"...",
-            player4:"...",
-            player5:"...",
-            player7:"...",
-            // goalscorers:["Atique ⚽️",'Hassan ⚽️','Amanullah (p) ⚽️']
-            goalscorers:[]
+            captain:"Ijaz Sahb",
+            player1:"Bilal",
+            player2:"Khurram",
+            player3:"Hassan",
+            player4:"Naeem",
+            player5:"Javaid",
+            player6:"Keeper",
+            player7:"Zain",
+            goalscorers:["Bilal ⚽️⚽️",'Hassan (p) ⚽️']
 
         },
-        finalScore:"0-0"
+        finalScore:"5-3"
     },
     
 ]

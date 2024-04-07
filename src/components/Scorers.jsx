@@ -32,15 +32,15 @@ const Scorers = () => {
                     <div key={i} className="single-player-score" style={{background:player.bg}}>
                         <div className="goals-count">
                             <h2>{player.player}</h2>
-                            <h2 className="color">{player.Goals} ⚽️</h2>
+                            <h2 className="color pos">{player.position}</h2>
                         </div>
                         <div className="matches-count">
                             <h2 className="light">Matches</h2>
                             <h2 className="color">{player.matchPlayed} 🎯</h2>
                         </div>
                         <div className="assist-count">
-                            <h2 className="light">Assists</h2>
-                            <h2 className="color">{player.Assist} 🎯</h2>
+                            <h2 className="light">Goals</h2>
+                            <h2 className="color">{player.Goals} 🎯</h2>
                         </div>
                     </div>
                 ))}
