@@ -16,6 +16,13 @@ const Scorers = () => {
         setSearchTerm(event.target.value);
     };
 
+    useEffect(() => {
+        // Scroll to the top of the page when the component mounts
+        window.scrollTo({
+          top: 0,
+        });
+      }, []);
+
     return (
         <>
             <div>

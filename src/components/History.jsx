@@ -1,7 +1,13 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 import HistoryData from '../historymApi/HistoryData'
 const History = () => {
-
+  useEffect(() => {
+    // Scroll to the bottom of the page with a smooth transition when the component mounts
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      behavior: 'smooth'
+    });
+  }, []); 
   return (
     <>
       <div>

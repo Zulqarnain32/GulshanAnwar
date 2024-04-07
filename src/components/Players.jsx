@@ -1,7 +1,13 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 
 import PlayersData from '../apiPlayers/PlayersData'
 const Players = () => {
+  useEffect(() => {
+    // Scroll to the top of the page when the component mounts
+    window.scrollTo({
+      top: 0,
+    });
+  }, []);
   return (
     <>
        <div className='player-container'>

@@ -1,6 +1,13 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 import HistoryData from '../historymApi/HistoryData'
 const Sunday = () => {
+  useEffect(() => {
+    // window.scrollTo(0, document.body.scrollHeight); //first parameter is horizontal second parameter is vertical
+    window.scrollTo({
+      top: document.body.scrollHeight,
+      behavior: 'smooth'
+    });
+  }, []);
 
   return (
     <>
