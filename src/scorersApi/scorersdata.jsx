@@ -65,7 +65,7 @@ const scorerData = [
     {
         id:7,
         player:"Bilal",
-        Goals:0,
+        Goals:2,
         matchPlayed:2,
         bg:"#f5abe5",
         position:"Defender"
