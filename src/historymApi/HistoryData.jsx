@@ -56,6 +56,39 @@ const HistoryData = [
 
         },
         finalScore:"5-3"
+    }, {
+        timeStamp:{
+          day:"Wendesday",
+          date:"10-April-2024"
+        },
+        team1:{
+            captain:"Abdul Rahman",
+            player1:"...",
+            player2:"...",
+            player3:"...",
+            player4:"...",
+            player5:"...",
+            player6:"...",
+            player7:"...",
+            player8:"...",
+            // goalscorers:["Muzaffar  ⚽️⚽️⚽️",'Tariq Bhai ⚽️','Arham ⚽️']
+            goalscorers:[]
+        },
+        team2:{
+            captain:"Naeem",
+            player1:"...",
+            player2:"...",
+            player3:"...",
+            player4:"...",
+            player5:"...",
+            player6:"...",
+            player7:"...",
+            player8:"...",
+            // goalscorers:["Bilal ⚽️⚽️",'Hassan (p) ⚽️']
+            goalscorers:[]
+
+        },
+        finalScore:"0-0"
     },
     
 ]
