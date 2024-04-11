@@ -89,6 +89,38 @@ const HistoryData = [
 
         },
         finalScore:"0-0"
+    }, {
+        timeStamp:{
+          day:"Thursday",
+          date:"11-April-2024"
+        },
+        team1:{
+            captain:"Abdul Rahman",
+            player1:"...",
+            player2:"...",
+            player3:"...",
+            player4:"...",
+            player5:"...",
+            player6:"...",
+            player7:"...",
+            player8:"...",
+            goalscorers:["Abdul Rahman ⚽️",'Arslan  ⚽️']
+
+        },
+        team2:{
+            captain:"Naeem",
+            player1:"...",
+            player2:"...",
+            player3:"...",
+            player4:"...",
+            player5:"...",
+            player6:"...",
+            player7:"...",
+            player8:"...",
+            goalscorers:[]
+
+        },
+        finalScore:"2-0"
     },
     
 ]

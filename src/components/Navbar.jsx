@@ -41,7 +41,7 @@ const Navbar = () => {
         <Link to="/players" className="nav-element" onClick={closeNav}>Players</Link>
         <Link to="/history" className="nav-element" onClick={closeNav}>History</Link>
         <Link to="/scorers" className="nav-element" onClick={closeNav}>Scorers</Link>
-        <Link to="/eid" className="nav-element" onClick={closeNav}>Eid ul fitr</Link>
+        <Link to="/eid" className="nav-element" onClick={closeNav}>Eid Cup</Link>
       </div>
     </div>
   );
