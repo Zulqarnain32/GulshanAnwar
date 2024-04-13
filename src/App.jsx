@@ -8,7 +8,6 @@ import Players from './components/Players'
 import Sunday from './components/Sunday'
 import Regular from './components/Regular'
 import("./App.css")
-// vite --host 0.0.0.0 --port 5173
 const App = () => {
   return (
     <>
