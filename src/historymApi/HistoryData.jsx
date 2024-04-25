@@ -178,7 +178,7 @@ const HistoryData = [
             player6: "Mani",
             player7: "Umair",
             player8: "Usman",
-            player9: "Abu",
+            player9: "Abu Bakr",
 
         },
         goalScorers: {
@@ -194,7 +194,7 @@ const HistoryData = [
         },
         captains: {
             captain1: "Tariq Bhai",
-            captain2: "Ijaz Sabb"
+            captain2: "Ijaz Sahb"
         },
         team1: {
             player1: "Naeem",
@@ -222,6 +222,42 @@ const HistoryData = [
             team2Scorers: ["Mohsin ⚽️",'Azam ⚽️', 'Zeeshan ⚽️']
         },
         finalScore: "5-3"
+    },
+    {
+        timeStamp: {
+            day: "Thursday",
+            date: "24-April-2024"
+        },
+        captains: {
+            captain1: "Tariq Bhai",
+            captain2: "Ijaz Sahb"
+        },
+        team1: {
+            player1: "Naeem",
+            player2: "Lala",
+            player3: "Muzaffar",
+            player4: "Azam",
+            player5: "Usman",
+            player6: "Zuraiz",
+            player7: "Zeeshan",
+            player8: "Umair",
+        },
+        team2: {
+            player1: "Asad Khan",
+            player2: "Imtiyaz",
+            player3: "Khurram",
+            player4: "Hassan",
+            player5: "Javaid",
+            player6: "Zulqarnain",
+            player7: "Daniyal",
+            player8: "Sajid",
+
+        },
+        goalScorers: {
+            team1Scorers: ["Lala ⚽️⚽️", 'Azam ⚽️⚽️', 'Muzaffar ⚽️','Zeeshan ⚽️'],
+            team2Scorers: ['Asad Khan ⚽️', 'Zulqarnain ⚽️']
+        },
+        finalScore: "6-2"
     }
 
 ]
