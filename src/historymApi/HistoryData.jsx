@@ -258,6 +258,46 @@ const HistoryData = [
             team2Scorers: ['Asad Khan ⚽️', 'Zulqarnain ⚽️']
         },
         finalScore: "6-2"
+    }, {
+        timeStamp: {
+            day: "Thursday",
+            date: "24-April-2024"
+        },
+        captains: {
+            captain1: "Tariq Bhai",
+            captain2: "Ijaz Sahb"
+        },
+        team1: {
+            player1: "Naeem",
+            player2: "Muzaffar",
+            player3: "Atique",
+            player4: "Azam",
+            player5: "Khurram",
+            player6: "Imtiyaz",
+            player7: "Javaid",
+            player8: "Zuraiz",
+            player9: "Nauman",
+            player10: "Mohsin",
+        },
+        team2: {
+            player1: "Daniyal",
+            player2: "Danish",
+            player3: "Zulqarnain",
+            player4: "Umair",
+            player5: "Hassan",
+            player6: "Zeeshan",
+            player7: "Sajid",
+            player8: "Riyasat",
+            player9: "Sweeti",
+            player10: "Lala",
+
+
+        },
+        goalScorers: {
+            team1Scorers: ['Azam ⚽️'],
+            team2Scorers: ['Daniyal ⚽️', 'Zeeshan ⚽️','Danish ⚽️','Hassan ⚽️']
+        },
+        finalScore: "1-4"
     }
 
 ]
