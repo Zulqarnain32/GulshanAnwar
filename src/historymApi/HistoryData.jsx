@@ -337,7 +337,44 @@ const HistoryData = [
             team2Scorers: ['Atique ⚽️']
         },
         finalScore: "3-1"
+    },{
+        timeStamp: {
+            day: "Wednesday",
+            date: "01-May-2024"
+        },
+        captains: {
+            captain1: "Ijaz Sahb",
+            captain2: "Khurram",
+        },
+        team1: {
+            player1: "Usman",
+            player2: "Tariq Bhai",
+            player3: "Atique",
+            player4: "Zeeshan",
+            player5: "Zuraiz",
+            player6: "Azam",
+            player7: "Mohsin",
+            player8: "Zulqarnain",
+            player9: "Zain",
+        },
+        team2: {
+            player1: "Amanullah Bhai",
+            player2: "Mani",
+            player3: "Lala",
+            player4: "Muzaffar",
+            player5: "Hassan",
+            player6: "Naeem",
+            player7: "Arham",
+            player8: "Javaid",
+            player9: "Azan",
+        },
+        goalScorers: {
+            team1Scorers: ['Ijaz Sahb ⚽️','Atique ⚽️',"Tariq Bhai ⚽️",'Zulqarnain ⚽️','Zeeshan ⚽️⚽️⚽️'],
+            team2Scorers: ['Khurram ⚽️','Arham ⚽️','Javaid ⚽️']
+        },
+        finalScore: "7-3"
     }
+
 
 ]
 export default HistoryData
