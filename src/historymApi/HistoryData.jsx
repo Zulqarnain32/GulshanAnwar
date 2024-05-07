@@ -439,6 +439,38 @@ const HistoryData = [
             team2Scorers: ['Naeem ⚽️⚽️','Atique ⚽️']
         },
         finalScore: "4-3"
+    },{
+        timeStamp: {
+            day: "Tuesday",
+            date: "07-May-2024"
+        },
+        captains: {
+            captain1: "Tariq Bhai",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Zuraiz",
+            player2: "Amanullah",
+            player3: "Umair",
+            player4: "Zulqarnain",
+            player5: "Keeper",
+            player6: "Lala",
+            player7: "Usman",
+        },
+        team2: {
+            player1: "Mohsin",
+            player2: "Azam",
+            player3: "Sher Khan",
+            player4: "Daniyal",
+            player5: "Javaid",
+            player6: "Imtiyaz Bhai",
+            player7: "Bakr",
+        },
+        goalScorers: {
+            team1Scorers: [],
+            team2Scorers: []
+        },
+        finalScore: "10-7"
     },
 
 
