@@ -675,7 +675,7 @@ const HistoryData = [
     {
         timeStamp: {
             day: "Friday",
-            date: "16-May-2024"
+            date: "17-May-2024"
         },
         captains: {
             captain1: "Tariq Bhai",
@@ -708,6 +708,43 @@ const HistoryData = [
             team2Scorers: ['Foji ⚽️','Sanaullah ⚽️⚽️']
         },
         finalScore: "6-3"
+    },
+    {
+        timeStamp: {
+            day: "Satursday",
+            date: "18-May-2024"
+        },
+        captains: {
+            captain1: "Tariq Bhai",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Haji Sahb",
+            player2: "Naeem",
+            player3: "Zeeshan",
+            player4: "Danish",
+            player5: "Pathan",
+            player6: "Mani",
+            player7: "Sher Khan",
+            player8: "Usman",
+            player9: "Abu Bakr",
+        },
+        team2: {
+            player1: "Azam",
+            player2: "Javaid",
+            player3: "Zulqarnain",
+            player4: "Zuraiz",
+            player5: "Khurram",
+            player6: "Imtiyaz Bhai",
+            player7: "Amanullah",
+            player8: "Ali Bhai",
+            player9: "Daniyal",
+        },
+        goalScorers: {
+            team1Scorers: ['Zeeshan ⚽️','Sher khan ⚽️','Naeem ⚽️'],
+            team2Scorers: ['Khurram ⚽️','Zulqarnain ⚽️']
+        },
+        finalScore: "3-2"
     },
 
 
