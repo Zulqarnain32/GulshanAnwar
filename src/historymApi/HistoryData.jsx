@@ -816,6 +816,46 @@ const HistoryData = [
         },
         finalScore: "4-4"
     },
+    {
+        timeStamp: {
+            day: "Thursday",
+            date: "23-May-2024"
+        },
+        captains: {
+            captain1: "Zulqarnain",
+            captain2: "Zeeshan",
+        },
+        team1: {
+            player1: "Haji Sahb",
+            player2: "Imtiyaz Bhai",
+            player3: "Danish",
+            player4: "Farhan",
+            player5: "Muzaffar",
+            player6: "Khurram",
+            player7: "Ali Raza",
+            player8: "Zuraiz",
+            player9: "Amanullah",
+            player10: "Azam",
+        },
+        team2: {
+            player1: "Javaid",
+            player2: "Asad Khan",
+            player3: "Tariq Bhai",
+            player4: "Sweeti",
+            player5: "Hassan",
+            player6: "Mudassir",
+            player7: "Riyasat",
+            player8: "Umair",
+            player9: "Naeem",
+            player10: "Subhan",
+
+        },
+        goalScorers: {
+            team1Scorers: ['Zuraiz ⚽️⚽️','Danish  ⚽️',"Khurram ⚽️",'Zulqarnain ⚽️'],
+            team2Scorers: ['Sweeit  ⚽️']
+        },
+        finalScore: "5-1"
+    },
 
 
 ]
