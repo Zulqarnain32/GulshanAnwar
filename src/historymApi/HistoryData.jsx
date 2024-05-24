@@ -882,7 +882,7 @@ const HistoryData = [
             player1: "Javaid",
             player2: "Sanullah",
             player3: "Haji Sahb",
-            player4: "Sweeti",
+            player4: "Zuraiz",
             player5: "Naeem",
             player6: "Sweeti",
             player7: "Farhan",
