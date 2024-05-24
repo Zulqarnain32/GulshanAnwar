@@ -852,7 +852,7 @@ const HistoryData = [
         },
         goalScorers: {
             team1Scorers: ['Zuraiz ⚽️⚽️','Danish  ⚽️',"Khurram ⚽️",'Zulqarnain ⚽️'],
-            team2Scorers: ['Sweeit  ⚽️']
+            team2Scorers: ['Sweeti  ⚽️']
         },
         finalScore: "5-1"
     },
