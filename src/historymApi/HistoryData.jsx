@@ -917,6 +917,7 @@ const HistoryData = [
             player7: "Hassan",
             player8: "Haji Sahb",
             player9: "Arman",
+            player10:"..."
 
         },
         team2: {
