@@ -933,9 +933,9 @@ const HistoryData = [
         },
         goalScorers: {
             team1Scorers: ['Imtiyaz Bhai ⚽️'],
-            team2Scorers: ['Asad Khan  ⚽️','Ali Raza ⚽️']
+            team2Scorers: ['Asad Khan  ⚽️⚽️','Ali Raza ⚽️']
         },
-        finalScore: "1-2"
+        finalScore: "1-3"
     },
 
 
