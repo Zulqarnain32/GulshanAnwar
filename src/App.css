@@ -176,7 +176,7 @@
 .red{
   background-color: rgb(49, 49, 49);
   color: #fff;
-  background: linear-gradient(blue,red);
+  /* background: linear-gradient(blue,red); */
 }
 .blue{
   background-color: rgb(255, 255, 255);

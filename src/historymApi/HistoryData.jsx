@@ -218,7 +218,7 @@ const HistoryData = [
 
         },
         goalScorers: {
-            team1Scorers: ["Lali Khan ⚽️⚽️", 'Naeem ⚽️', 'Zulqarnain ⚽️','Mohsin   OG ⚽️'],
+            team1Scorers: ["Asad Khan ⚽️⚽️", 'Naeem ⚽️', 'Zulqarnain ⚽️','Mohsin   OG ⚽️'],
             team2Scorers: ["Mohsin ⚽️",'Azam ⚽️', 'Zeeshan ⚽️']
         },
         finalScore: "5-3"
@@ -927,7 +927,7 @@ const HistoryData = [
             player5: "Muzaffar",
             player6: "Ali Raza",
             player7: "Farhan",
-            player8: "Umair",
+            player8: "Ijaz Sahb",
             player9: "Amanullah",
 
         },
