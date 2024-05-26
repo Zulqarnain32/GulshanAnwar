@@ -39,8 +39,6 @@ const Navbar = () => {
         <Link to="/players" className="nav-element" onClick={closeNav}>Players</Link>
         <Link to="/history" className="nav-element" onClick={closeNav}>History</Link>
         <Link to="/scorers" className="nav-element" onClick={closeNav}>Scorers</Link>
-        <Link to="/scorerse" className="nav-element" onClick={closeNav}>Scorers</Link>
-        <Link to="/scorersae" className="nav-element" onClick={closeNav}>Scorers</Link>
       </div>
     </div>
   );
