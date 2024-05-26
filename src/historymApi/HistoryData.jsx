@@ -917,6 +917,7 @@ const HistoryData = [
             player7: "Hassan",
             player8: "Haji Sahb",
             player9: "Arman",
+            player10:"..."
 
         },
         team2: {
@@ -929,6 +930,7 @@ const HistoryData = [
             player7: "Farhan",
             player8: "Ijaz Sahb",
             player9: "Amanullah",
+            player10:"Abdul Rehman"
 
         },
         goalScorers: {
