@@ -36,12 +36,12 @@ const Navbar = () => {
       <div className={`nav-elements ${showNavbar && 'active'}`}>
         <RxCross2 className="close-nav" onClick={closeNav} />
         <Link to="/" className="nav-element" onClick={closeNav}>Home</Link>
-        <Link to="/regular" className="nav-element" onClick={closeNav}>Regular</Link>
-        <Link to="/sunday" className="nav-element" onClick={closeNav}>Sunday</Link>
+        {/* <Link to="/regular" className="nav-element" onClick={closeNav}>Regular</Link> */}
+        {/* <Link to="/sunday" className="nav-element" onClick={closeNav}>Sunday</Link> */}
         <Link to="/players" className="nav-element" onClick={closeNav}>Players</Link>
         <Link to="/history" className="nav-element" onClick={closeNav}>History</Link>
         <Link to="/scorers" className="nav-element" onClick={closeNav}>Scorers</Link>
-        <Link to="/eid" className="nav-element" onClick={closeNav}>Eid Cup</Link>
+        {/* <Link to="/eid" className="nav-element" onClick={closeNav}>Eid Cup</Link> */}
       </div>
     </div>
   );
