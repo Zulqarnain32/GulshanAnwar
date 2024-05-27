@@ -10,15 +10,15 @@ const PlayersData = [
         id:2,
         name:"Umair",
         age:18,
-        position:"Forward",
+        position:"Defender",
         image:"/assets/umair.jpg"
 
     },
         {
-        id:2,
+        id:3,
         name:"Zuraiz",
         age:18,
-        position:"Forward",
+        position:"L Winger",
         image:"/assets/umair.jpg"
 
     },
