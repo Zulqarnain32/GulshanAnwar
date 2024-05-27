@@ -74,8 +74,8 @@ const scorerData = [
     {
         id: 9,
         player: "Zuraiz",
-        Goals: 0,
-        matchPlayed: 1,
+        Goals: 5,
+        matchPlayed: "N",
         bg: "#cbc6c8",
         position: "Forward"
     },
