@@ -14,5 +14,13 @@ const PlayersData = [
         image:"/assets/umair.jpg"
 
     },
+    {
+        id:2,
+        name:"Zuraiz",
+        age:18,
+        position:"L Winger",
+        image:"/assets/umair.jpg"
+
+    },
 ]
 export default PlayersData

@@ -1,4 +1,5 @@
 const scorerData = [
+   
     {
         id: 1,
         player: "Zeeshan",
@@ -22,6 +23,22 @@ const scorerData = [
         matchPlayed: "N",
         bg: "#f6e562",
         position: "Mid Fielder"
+    },
+    {
+        id: 4,
+        player: "Haji Sahb",
+        Goals: 7,
+        matchPlayed: "N",
+        bg: "#ed85a1",
+        position: "(K)+ Forward"
+    },
+    {
+        id: 0,
+        player: "Zuraiz",
+        Goals: 5,
+        matchPlayed: 1,
+        bg: "#e1ff5c",
+        position: "Forward"
     },
     {
         id: 4,
@@ -55,11 +72,12 @@ const scorerData = [
         bg: "#c7b9ee",
         position: "Forward"
     },
+   
     {
         id: 7,
         player: "Bilal",
-        Goals: 2,
-        matchPlayed: 2,
+        Goals: 3,
+        matchPlayed: "N",
         bg: "#f5abe5",
         position: "Defender"
     },
@@ -71,14 +89,14 @@ const scorerData = [
         bg: "#afc5ce",
         position: "Mid Fielder"
     },
-    {
-        id: 9,
-        player: "Zuraiz",
-        Goals: 0,
-        matchPlayed: 1,
-        bg: "#cbc6c8",
-        position: "Forward"
-    },
+    // {
+    //     id: 9,
+    //     player: "Zuraiz",
+    //     Goals: 0,
+    //     matchPlayed: 1,
+    //     bg: "golden",
+    //     position: "Forward"
+    // },
     {
         id: 10,
         player: "Khurram",
