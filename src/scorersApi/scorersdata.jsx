@@ -89,16 +89,6 @@ const scorerData = [
         bg: "#afc5ce",
         position: "Mid Fielder"
     },
-<<<<<<< HEAD
-    // {
-    //     id: 9,
-    //     player: "Zuraiz",
-    //     Goals: 0,
-    //     matchPlayed: 1,
-    //     bg: "golden",
-    //     position: "Forward"
-    // },
-=======
     {
         id: 9,
         player: "Zuraiz",
@@ -107,7 +97,6 @@ const scorerData = [
         bg: "#cbc6c8",
         position: "Forward"
     },
->>>>>>> 0c3f96b9236749d56367bba0b708f94164de63f8
     {
         id: 10,
         player: "Khurram",
