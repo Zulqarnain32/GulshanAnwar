@@ -89,14 +89,7 @@ const scorerData = [
         bg: "#afc5ce",
         position: "Mid Fielder"
     },
-    {
-        id: 9,
-        player: "Zuraiz",
-        Goals: 5,
-        matchPlayed: "N",
-        bg: "#cbc6c8",
-        position: "Forward"
-    },
+  
     {
         id: 10,
         player: "Khurram",
