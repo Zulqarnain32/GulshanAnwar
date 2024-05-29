@@ -27,7 +27,7 @@ const scorerData = [
     {
         id: 4,
         player: "Haji Sahb",
-        Goals: 7,
+        Goals: 8,
         matchPlayed: "N",
         bg: "#ed85a1",
         position: "(K)+ Forward"
