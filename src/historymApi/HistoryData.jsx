@@ -591,7 +591,7 @@ const HistoryData = [
         },
         goalScorers: {
             team1Scorers: ['Ijaz Sahb ⚽️','Samiullah ⚽️'],
-            team2Scorers: ['Asad Khan ⚽️⚽️⚽️','Asad Khan ⚽️⚽️']
+            team2Scorers: ['Asad ⚽️⚽️⚽️⚽️⚽️']
         },
         finalScore: "2-5"
     },{
