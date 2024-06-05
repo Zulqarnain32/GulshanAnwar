@@ -1054,7 +1054,11 @@ const HistoryData = [
         },
         finalScore: "2-1"
     },
+<<<<<<< HEAD
     {
+=======
+      {
+>>>>>>> origin/main
         timeStamp: {
             day: "Wed",
             date: "5-June-2024"
@@ -1082,6 +1086,20 @@ const HistoryData = [
             player6: "Haji Sahb",
             player7: "Khurram",
             player8: "Zain",
+<<<<<<< HEAD
+=======
+
+        },
+        goalScorers: {
+            team1Scorers: ['Mohsin ⚽️','Javaid (OG) ⚽️','Javaid (OG) ⚽️'],
+            team2Scorers: ['Javaid ⚽️','Zeeshan ⚽️','Zain ⚽️','Khurram ⚽️','Tariq Bhai (OG) ⚽️',
+                'Haji Sahb ⚽️'
+            ]
+        },
+        finalScore: "3-6"
+    },
+
+>>>>>>> origin/main
 
         },
         goalScorers: {
