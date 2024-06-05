@@ -14,8 +14,8 @@ const History = () => {
         {
           HistoryData.map((players, i) => (
             <div className={`match-post ${i % 2 === 0 ? "red" : "blue"}`}>
-              <h5 className='match-num'>{i + 1}</h5>
-              <p className='date'>Date & Day :  {players.timeStamp.day} {players.timeStamp.date}</p>
+               {/* <h5 className='match-num'>{i + 1}</h5> */}
+              {/* <p className='date'>Date & Day :  {players.timeStamp.day} {players.timeStamp.date}</p> */}
               <div className='complete-match'>
                 <div className='team team1'>
                   <h2>{players.captains.captain1}</h2>
