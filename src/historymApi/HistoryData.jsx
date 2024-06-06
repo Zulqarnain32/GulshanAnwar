@@ -1054,11 +1054,7 @@ const HistoryData = [
         },
         finalScore: "2-1"
     },
-<<<<<<< HEAD
-    {
-=======
       {
->>>>>>> origin/main
         timeStamp: {
             day: "Wed",
             date: "5-June-2024"
@@ -1086,8 +1082,6 @@ const HistoryData = [
             player6: "Haji Sahb",
             player7: "Khurram",
             player8: "Zain",
-<<<<<<< HEAD
-=======
 
         },
         goalScorers: {
@@ -1098,17 +1092,41 @@ const HistoryData = [
         },
         finalScore: "3-6"
     },
-
->>>>>>> origin/main
+    {
+        timeStamp: {
+            day: "Thursday",
+            date: "6-June-2024"
+        },
+        captains: {
+            captain1: "Zulqarnain",
+            captain2: "Zeeshan",
+        },
+        team1: {
+            player1: "Javaid",
+            player2: "Naeem",
+            player3: "Tariq Bhai",
+            player4: "Usman",
+            player5: "Abu Bakr",
+            player6: "Naeem",
+            player7: "Sweeti",
+            player8: "Imtiyaz Bhai",
+        },
+        team2: {
+            player1: "Asad Khan",
+            player2: "Mudassir",
+            player3: "Muzaffar",
+            player4: "Atif",
+            player5: "Azam",
+            player6: "Haji Sahb",
+            player7: "Ali Raza",
+            player8: "Umair",
 
         },
         goalScorers: {
-            team1Scorers: ['Mohsin ⚽️','Javaid (OG) ⚽️','Javaid (OG) ⚽️'],
-            team2Scorers: ['Javaid ⚽️','Zeeshan ⚽️','Zain ⚽️','Khurram ⚽️','Tariq Bhai (OG) ⚽️',
-                'Haji Sahb ⚽️'
-            ]
+            team1Scorers: ['Zulqarnain ⚽️⚽️','Naeem ⚽️⚽️','Abu Bakr ⚽️'],
+            team2Scorers: ['Asad Khan ⚽️⚽️','Zeeshan (P) ⚽️','Azam  ⚽️⚽️','Haji Sahb ⚽️']
         },
-        finalScore: "3-6"
+        finalScore: "5-6"
     },
 
 
