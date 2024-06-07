@@ -1134,7 +1134,7 @@ const HistoryData = [
             date: "7-June-2024"
         },
         captains: {
-            captain1: "Ijaz Sahn",
+            captain1: "Ijaz Sahb",
             captain2: "Tariq Bhai",
         },
         team1: {
