@@ -1128,6 +1128,43 @@ const HistoryData = [
         },
         finalScore: "5-6"
     },
+    {
+        timeStamp: {
+            day: "Friday",
+            date: "7-June-2024"
+        },
+        captains: {
+            captain1: "Tariq Bhai",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Atif",
+            player2: "Zuraiz",
+            player3: "Javaid",
+            player4: "Mohsin",
+            player5: "Ali Raza",
+            player6: "Riyasat",
+            player7: "Muzaffar",
+            player8: "...",
+        },
+        team2: {
+            player1: "Asad Khan",
+            player2: "Zeeshan",
+            player3: "Sweeti",
+            player4: "Khurram",
+            player5: "Imtiyaz Bhai",
+            player6: "Naeem",
+            player7: "Haji Sahb",
+            player8: "Umair",
+
+        },
+        goalScorers: {
+            team1Scorers: ['Umair ⚽️','Asad Khan ⚽️'],
+            team2Scorers: ['Zuraiz ⚽️','Atif ⚽️']
+        },
+        finalScore: "2-2"
+    },
+
 
 
 ]
