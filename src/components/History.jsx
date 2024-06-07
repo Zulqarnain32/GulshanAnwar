@@ -46,6 +46,7 @@ const History = () => {
                         </div>
                       ))
                     }
+                
                   </div>
                 </div>
                 <div className="scorers1 ">
@@ -57,6 +58,7 @@ const History = () => {
                         </div>
                       ))
                     }
+                
                   </div>
                 </div>
               </div>
