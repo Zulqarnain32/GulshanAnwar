@@ -11,7 +11,7 @@ const scorerData = [
     {
         id: 2,
         player: "Asad Khan",
-        Goals: 18,
+        Goals: 19,
         matchPlayed: "N",
         bg: "#bb9df6",
         position: "Forward"
@@ -35,7 +35,7 @@ const scorerData = [
     {
         id: 0,
         player: "Zuraiz",
-        Goals: 5,
+        Goals: 6,
         matchPlayed: 1,
         bg: "#e1ff5c",
         position: "Forward"
