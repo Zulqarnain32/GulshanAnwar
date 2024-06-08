@@ -25,6 +25,15 @@ const scorerData = [
         position: "Mid Fielder"
     },
     {
+        id: 8,
+        player: "Azam",
+        Goals: 11,
+        matchPlayed: 1,
+        bg: "#afc5ce",
+        position: "Mid Fielder"
+    },
+  
+    {
         id: 4,
         player: "Haji Sahb",
         Goals: 10,
@@ -43,8 +52,8 @@ const scorerData = [
     {
         id: 4,
         player: "Mohsin",
-        Goals: 2,
-        matchPlayed: 1,
+        Goals: 4,
+        matchPlayed: "N",
         bg: "aquamarine",
         position: "Forward"
     },
@@ -66,9 +75,9 @@ const scorerData = [
     },
     {
         id: 5,
-        player: "Hassan",
-        Goals: 1,
-        matchPlayed: 2,
+        player: "Umair",
+        Goals: 8,
+        matchPlayed: "N",
         bg: "#c7b9ee",
         position: "Forward"
     },
@@ -81,19 +90,11 @@ const scorerData = [
         bg: "#f5abe5",
         position: "Defender"
     },
-    {
-        id: 8,
-        player: "Azam",
-        Goals: 0,
-        matchPlayed: 1,
-        bg: "#afc5ce",
-        position: "Mid Fielder"
-    },
-  
+    
     {
         id: 10,
         player: "Khurram",
-        Goals: 0,
+        Goals: 7,
         matchPlayed: 2,
         bg: "#61dd87",
         position: "Mid Fielder"
