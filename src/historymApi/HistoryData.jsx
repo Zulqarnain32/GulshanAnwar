@@ -1134,8 +1134,8 @@ const HistoryData = [
             date: "7-June-2024"
         },
         captains: {
-            captain1: "Tariq Bhai",
-            captain2: "Ijaz Sahb",
+            captain1: "Ijaz Sahb",
+            captain2: "Tariq Bhai",
         },
         team1: {
             player1: "Atif",
@@ -1145,7 +1145,7 @@ const HistoryData = [
             player5: "Ali Raza",
             player6: "Riyasat",
             player7: "Muzaffar",
-            player8: "...",
+            player8: "Hassan",
         },
         team2: {
             player1: "Asad Khan",
@@ -1154,13 +1154,14 @@ const HistoryData = [
             player4: "Khurram",
             player5: "Imtiyaz Bhai",
             player6: "Naeem",
-            player7: "Haji Sahb",
-            player8: "Umair",
+
+            player7: "Umair",
+            player8:'Haji Sahb'
 
         },
         goalScorers: {
-            team1Scorers: ['Umair ⚽️','Asad Khan ⚽️'],
-            team2Scorers: ['Zuraiz ⚽️','Atif ⚽️']
+            team1Scorers: ['Zuraiz ⚽️','Atif ⚽️'],
+            team2Scorers: ['Umair ⚽️','Asad Khan ⚽️']
         },
         finalScore: "2-2"
     },
