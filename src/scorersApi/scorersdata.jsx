@@ -27,7 +27,7 @@ const scorerData = [
     {
         id: 8,
         player: "Azam",
-        Goals: 11,
+        Goals: 13,
         matchPlayed: 1,
         bg: "#afc5ce",
         position: "Mid Fielder"
@@ -52,7 +52,7 @@ const scorerData = [
     {
         id: 4,
         player: "Mohsin",
-        Goals: 4,
+        Goals: 6,
         matchPlayed: "N",
         bg: "aquamarine",
         position: "Forward"
