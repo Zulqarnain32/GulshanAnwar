@@ -34,6 +34,74 @@ const HistoryData = [
         },
         finalScore: "4-3"
     },
+{
+        timeStamp: {
+            day: "Sunday",
+            date: "31-March-2024"
+        },
+        captains: {
+            captain1: "Zulqarnain",
+            captain2: "Zeeshan",
+        },
+        team1: {
+            player1: "Mohsin",
+            player2: "Bilal",
+            player3: "Zuraiz",
+            player4: "Naeem",
+            player5: "Khurram",
+            player7: "Azam",
+
+        },
+        team2: {
+            player1: "Asad",
+            player2: "Hassan",
+            player3: "Ali Raza",
+            player4: "Amanullah",
+            player5: "Atique",
+            player7: "Arham",
+
+        },
+        goalScorers: {
+            team1Scorers: ["Mohsin ⚽️⚽️", 'Naeem ⚽️', 'Zulqarnain ⚽️'],
+            team2Scorers: ["Atique ⚽️", 'Hassan ⚽️', 'Amanullah (p) ⚽️'],
+
+        },
+        finalScore: "4-3"
+    },
+{
+        timeStamp: {
+            day: "Sunday",
+            date: "31-March-2024"
+        },
+        captains: {
+            captain1: "Zulqarnain",
+            captain2: "Zeeshan",
+        },
+        team1: {
+            player1: "Mohsin",
+            player2: "Bilal",
+            player3: "Zuraiz",
+            player4: "Naeem",
+            player5: "Khurram",
+            player7: "Azam",
+
+        },
+        team2: {
+            player1: "Asad",
+            player2: "Hassan",
+            player3: "Ali Raza",
+            player4: "Amanullah",
+            player5: "Atique",
+            player7: "Arham",
+
+        },
+        goalScorers: {
+            team1Scorers: ["Mohsin ⚽️⚽️", 'Naeem ⚽️', 'Zulqarnain ⚽️'],
+            team2Scorers: ["Atique ⚽️", 'Hassan ⚽️', 'Amanullah (p) ⚽️'],
+
+        },
+        finalScore: "4-3"
+    },
 
     {
         timeStamp: {
