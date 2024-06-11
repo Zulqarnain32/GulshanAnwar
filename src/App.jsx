@@ -21,6 +21,10 @@ const App = () => {
         <Route path='/regular' element = {<Regular/>}/>  
         <Route path='/sunday' element = {<Sunday/>}/>  
         <Route path='*' element = {<History/>}/>  
+        <Route path='/players' element = {<Players/>}/>  
+        <Route path='/regular' element = {<Regular/>}/>  
+        <Route path='/sunday' element = {<Sunday/>}/>  
+        <Route path='*' element = {<History/>}/>  
       </Routes> 
     </BrowserRouter>
     </>
