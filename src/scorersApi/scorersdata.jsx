@@ -27,7 +27,7 @@ const scorerData = [
     {
         id: 8,
         player: "Azam",
-        Goals: 13,
+        Goals: 14,
         matchPlayed: 1,
         bg: "#afc5ce",
         position: "Mid Fielder"
@@ -36,7 +36,7 @@ const scorerData = [
     {
         id: 4,
         player: "Haji Sahb",
-        Goals: 10,
+        Goals: 12,
         matchPlayed: "N",
         bg: "#1de8a1",
         position: "(K)+ Forward"
@@ -76,7 +76,7 @@ const scorerData = [
     {
         id: 5,
         player: "Umair",
-        Goals: 8,
+        Goals: 9,
         matchPlayed: "N",
         bg: "#c7b9ee",
         position: "Forward"
@@ -94,7 +94,7 @@ const scorerData = [
     {
         id: 10,
         player: "Khurram",
-        Goals: 7,
+        Goals: 8,
         matchPlayed: 2,
         bg: "#61dd87",
         position: "Mid Fielder"
