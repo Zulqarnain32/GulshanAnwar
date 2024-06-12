@@ -18,13 +18,7 @@ const App = () => {
         <Route path='/scorers' element = {<Scorers/>}/>  
         <Route path='/history' element = {<History/>}/>  
         <Route path='/players' element = {<Players/>}/>  
-        <Route path='/regular' element = {<Regular/>}/>  
-        <Route path='/sunday' element = {<Sunday/>}/>  
-        <Route path='*' element = {<History/>}/>  
-        <Route path='/players' element = {<Players/>}/>  
-        <Route path='/regular' element = {<Regular/>}/>  
-        <Route path='/sunday' element = {<Sunday/>}/>  
-        <Route path='*' element = {<History/>}/>  
+         
       </Routes> 
     </BrowserRouter>
     </>
