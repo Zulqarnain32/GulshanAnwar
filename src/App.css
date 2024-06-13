@@ -306,3 +306,15 @@
   object-fit: cover;
   width: 100%;
 }
+.caro-img{
+  height: calc(100vh - 70px);
+  object-fit: contain;
+  object-fit: cover;
+  width: 100%;
+}
+.caro-img{
+  height: calc(100vh - 70px);
+  object-fit: contain;
+  object-fit: cover;
+  width: 100%;
+}
