@@ -52,7 +52,7 @@ const scorerData = [
     {
         id: 4,
         player: "Mohsin",
-        Goals: 6,
+        Goals: 7,
         matchPlayed: "N",
         bg: "aquamarine",
         position: "Forward"
@@ -76,7 +76,7 @@ const scorerData = [
     {
         id: 5,
         player: "Umair",
-        Goals: 9,
+        Goals: 10,
         matchPlayed: "N",
         bg: "#c7b9ee",
         position: "Forward"
