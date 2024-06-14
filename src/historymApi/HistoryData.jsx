@@ -1347,6 +1347,47 @@ const HistoryData = [
         },
         finalScore: "5-7"
     },
+    {
+        timeStamp: {
+            day: "Friday",
+            date: "14-June-2024"
+        },
+        captains: {
+            captain1: "Zulqarnain",
+            captain2: "Mohsin",
+        },
+        team1: {
+            player1: "Daniyal",
+            player2: "Azam",
+            player3: "Asad Khan",
+            player4: "Tariq Bhai",
+            player5: "Umair",
+            player6: "Mudassir",
+            player7: "Muzaffar",
+            player8: "Riyasat",
+            player9: "Ijaz Sahb",
+            player10: "Usman",
+        },
+        team2: {
+            player1: "Zuraiz",
+            player2: "Hassan",
+            player3: "Zeeshan",
+            player4: "Khurram",
+            player5: "Farhan",
+            player6: "Abu Bakr",
+            player7: "Sher Khan",
+            player8: "Javaid",
+            player9: "Mahad",
+            player10: "Amaullah",
+
+        },
+        goalScorers: {
+            team1Scorers: ['Umair ⚽️','Daniyal ⚽️'],
+            team2Scorers: ['Mohsin  ⚽️']
+        },
+        finalScore: "2-1"
+    },
+
 
 
 
