@@ -3,7 +3,7 @@ const scorerData = [
     {
         id: 1,
         player: "Zeeshan",
-        Goals: 30,
+        Goals: 31,
         matchPlayed: "N",
         bg: "#f1b18c",
         position: "Forward"
@@ -27,7 +27,7 @@ const scorerData = [
     {
         id: 8,
         player: "Azam",
-        Goals: 14,
+        Goals: 15,
         matchPlayed: 1,
         bg: "#afc5ce",
         position: "Mid Fielder"
@@ -44,7 +44,7 @@ const scorerData = [
     {
         id: 0,
         player: "Zuraiz",
-        Goals: 6,
+        Goals: 7,
         matchPlayed: 1,
         bg: "#e1ff5c",
         position: "Forward"
