@@ -1427,6 +1427,43 @@ const HistoryData = [
         finalScore: "2-1"
     },
 
+    {
+        timeStamp: {
+            day: "Tuesday",
+            date: "25-September-2024"
+        },
+        captains: {
+            captain1: "Tariq bhai ",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Asad Khan",
+            player2: "Zulqarnain",
+            player3: "Mani",
+            player4: "Subhan",
+            player5: "Khurram",
+            player6: "Javaid",
+            player7: "Imtiaz Bhai",           
+        },
+        team2: {
+            player1: "Zuraiz",
+            player2: "Abdul Rehman",
+            player3: "Atique",
+            player4: "Umair",
+            player5: "Sher Khan",
+            player6: "Hammad",
+            player7: "Usman",
+
+          
+
+        },
+        goalScorers: {
+            team1Scorers: ['Asad Khan ⚽️⚽️','Javaid ⚽️'],
+            team2Scorers: ['Zuraiz  ⚽️⚽️','Umair ⚽️','Atique ⚽️']
+        },
+        finalScore: "3-4"
+    },
+
 
 
 

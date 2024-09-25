@@ -13,7 +13,7 @@ const Players = () => {
        <div className='player-container'>
         {
             PlayersData.map((player,i) => (
-                <div className='single-player'>
+                <div className='single-player' key={i}>
                     <img src={player.image} alt="" className='player-img'/>
                     <h1>Name <span>{player.name}</span></h1>
                     <h1>Age <span> {player.age}</span></h1>

@@ -176,15 +176,18 @@
   top: 2px;
 }
 .red{
-  background-color: rgb(49, 49, 49);
+  /* background-color: rgb(49, 49, 49); */
   color: #fff;
   /* background: linear-gradient(rgb(4, 245, 213),rgb(145, 5, 226)); */
   background: linear-gradient(rgb(58, 58, 248),rgb(1, 1, 4));
+
 }
 .blue{
-  background-color: rgb(255, 255, 255);
+  /* background-color: rgb(255, 255, 255); */
   color: white;
-  background: linear-gradient(rgb(58, 58, 248),rgb(1, 1, 4));
+  /* color: #000000; */
+  background: linear-gradient(rgb(255, 0, 0),rgb(62, 53, 48));
+
 }
 .complete-match{
   display: flex;
