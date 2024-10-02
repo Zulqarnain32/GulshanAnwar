@@ -1533,10 +1533,39 @@ const HistoryData = [
         },
         finalScore: "2-5"
     },
-
-
-
-
-
+    {
+        timeStamp: {
+            day: "Wednesday",
+            date: "02-October-2024"
+        },
+        captains: {
+            captain1: "Tariq bhai ",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Asad Khan",
+            player2: "Raza Bhai",
+            player3: "Aoun Abbas",
+            player4: "Atique",
+            player5: "Naeem",
+            player6: "Arman",
+            player7: ".....",
+                   
+        },
+        team2: {
+            player1: "Sher Khan",
+            player2: "Zuraiz",
+            player3: "Usman",
+            player4: "Khurram",
+            player5: "Imtiaz Bhai",
+            player6: "Abu Bakr",
+            player7: "Azam",
+        },
+        goalScorers: {
+            team1Scorers: ['Arman (P) ⚽️','Asad Khan ⚽️','Atique ⚽️'],
+            team2Scorers: ['Zuraiz  ⚽️','Azam  ⚽️','Khurram ⚽️']
+        },
+        finalScore: "3-3"
+    },
 ]
 export default HistoryData
