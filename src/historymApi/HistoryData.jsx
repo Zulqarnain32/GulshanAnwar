@@ -1567,5 +1567,39 @@ const HistoryData = [
         },
         finalScore: "3-3"
     },
+    {
+        timeStamp: {
+            day: "Thursday",
+            date: "03-October-2024"
+        },
+        captains: {
+            captain1: "Tariq bhai ",
+            captain2: "Ijaz Sahb",
+        },
+        team1: {
+            player1: "Aoun Abbas",
+            player2: "Khurram",
+            player3: "Imtiaz Bhai",
+            player4: "Atique",
+            player5: "Naeem",
+            player6: "Javaid",
+            player7: "Haji Sahb",
+                   
+        },
+        team2: {
+            player1: "Azam",
+            player2: "Zuraiz",
+            player3: "Zulqarnain",
+            player4: "Umair",
+            player5: "Hassan",
+            player6: "Abu Bakr",
+            player7: ".....",
+        },
+        goalScorers: {
+            team1Scorers: ['Atique ⚽️⚽️','Tariq Bhai ⚽️','Naeem ⚽️ (P) ⚽️'],
+            team2Scorers: ['Atique  (OG) ⚽️','Azam  ⚽️','Hassan ⚽️','Ijaz Sahb ⚽️']
+        },
+        finalScore: "6-4"
+    },
 ]
 export default HistoryData
